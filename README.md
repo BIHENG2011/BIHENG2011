@@ -13,5 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 ## BluePay · démonstrateur mobile
 
-Maquette cliquable (données fictives) dans [`bluepay/`](bluepay/) : ouvrir `bluepay/index.html` dans un navigateur.
+Démonstrateur cliquable avec API simulée (données fictives, aucun argent réel) dans [`bluepay/`](bluepay/).
+Lancement et scénario de présentation : voir [`bluepay/README.md`](bluepay/README.md).
 Écrans : accueil usager, trajet intermodal, choix du paiement, billet QR, moto-taxi, encaissement, obligations du taximan, collecte des déchets.

@@ -203,3 +203,14 @@ b { font-weight: 700; }
 .actions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
 .action { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px; display: flex; flex-direction: column; gap: 8px; color: var(--ink); font-size: 14px; font-weight: 700; text-align: left; }
 .avatar { width: 44px; height: 44px; border-radius: 12px; background: #FFF6CC; color: #5C4A00; font-weight: 800; display: flex; align-items: center; justify-content: center; }
+
+/* ---- Branchement API ---- */
+.demo-nav__reset { font: inherit; font-size: 12px; font-weight: 700; color: var(--ink); background: #FFFFFF; border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; min-height: 32px; }
+.flash { border-radius: 12px; padding: 12px 14px; font-size: 13px; font-weight: 600; line-height: 1.4; }
+.flash--ok { background: var(--green-soft); color: #0A5C3D; }
+.flash--error { background: #FDE7E7; color: #8F1F1F; }
+.pill--muted { color: var(--ink); background: #DCE4EE; padding: 5px 10px; }
+.qr { width: 236px; height: 236px; }
+.qr svg { width: 100%; height: 100%; display: block; }
+.btn:disabled { opacity: 0.6; cursor: wait; }
+.demo-scan { font-size: 13px; font-weight: 700; color: var(--ink); background: #FFFFFF; border: 0; border-radius: 10px; padding: 10px 14px; min-height: 44px; }
