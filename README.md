@@ -10,3 +10,8 @@
 BIHENG2011/BIHENG2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## BluePay · démonstrateur mobile
+
+Maquette cliquable (données fictives) dans [`bluepay/`](bluepay/) : ouvrir `bluepay/index.html` dans un navigateur.
+Écrans : accueil usager, trajet intermodal, choix du paiement, billet QR, moto-taxi, encaissement, obligations du taximan, collecte des déchets.
